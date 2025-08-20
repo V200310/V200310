@@ -4,7 +4,7 @@
 I’m a graduate from **Ambala College of Engineering** and currently looking for opportunities as a **Frontend Developer**.  
 I enjoy building modern, responsive, and user-friendly web applications.
 
----
+
 
 <!-- Banner GIF -->
 <img src="https://i.ibb.co/ZmFHZTq/coding.gif" width="100%" alt="coding banner"/>
