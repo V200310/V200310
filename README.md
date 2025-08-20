@@ -9,7 +9,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 <!-- Banner GIF -->
 <img src="https://i.ibb.co/ZmFHZTq/coding.gif" width="100%" alt="coding banner"/>
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -19,7 +19,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 </div>  
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -30,7 +30,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 </div>
 
----
+
 
 ## 🌟 About Me  
 
@@ -39,7 +39,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 - 📚 Learning and experimenting with **React.js & UI frameworks**  
 - 🚀 Actively looking for **Frontend Developer roles**  
 
----
+
 
 ## 🌐 Connect with Me  
 
@@ -51,6 +51,5 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 </div>
 
----
 
 <p align="center">✨ <i>"Code. Create. Innovate."</i> ✨</p>
