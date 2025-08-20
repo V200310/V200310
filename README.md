@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Vishal  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&width=600&lines=Hi%2C+I'm+Vishal+👋;Frontend+Developer+💻;Passionate+about+Web+Development;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
-🚀 **Frontend Developer | Web Enthusiast | Lifelong Learner**  
+---
 
-I’m a graduate from **Ambala College of Engineering** and currently looking for opportunities as a **Frontend Developer**.  
-I enjoy building modern, responsive, and user-friendly web applications.  
+<!-- Banner GIF -->
+<img src="https://i.ibb.co/ZmFHZTq/coding.gif" width="100%" alt="coding banner"/>
 
 ---
 
@@ -11,38 +12,33 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,vscode" />
 
 </div>  
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical&hide_border=true" height="170" />
 
-</div>  
+</div>
 
 ---
 
 ## 🌟 About Me  
 
-- 🎓 B.Tech graduate from Ambala College of Engineering  
-- 💻 Passionate about building responsive & modern web applications  
-- 📚 Constantly learning new frontend technologies  
-- 🔍 Actively looking for **Frontend Developer roles**  
+- 🎓 B.Tech graduate from **Ambala College of Engineering**  
+- 💻 Love building modern, responsive **Frontend Applications**  
+- 📚 Learning and experimenting with **React.js & UI frameworks**  
+- 🚀 Actively looking for **Frontend Developer roles**  
 
 ---
 
-## 📫 Let's Connect  
+## 🌐 Connect with Me  
 
 <div align="center">
 
@@ -54,4 +50,4 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 ---
 
-✨ _"Code. Create. Innovate."_ ✨
+<p align="center">✨ <i>"Code. Create. Innovate."</i> ✨</p>
