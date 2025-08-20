@@ -1,6 +1,9 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&width=600&lines=Hi%2C+I'm+Vishal+👋;Frontend+Developer+💻;Passionate+about+Web+Development;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
+I’m a graduate from **Ambala College of Engineering** and currently looking for opportunities as a **Frontend Developer**.  
+I enjoy building modern, responsive, and user-friendly web applications.
+
 ---
 
 <!-- Banner GIF -->
