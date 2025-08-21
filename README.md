@@ -45,7 +45,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![LinkedIn](https://www.linkedin.com/in/vishal-vishal-5a6720226/)](your-linkedin-url)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](your-portfolio-url)  
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
